@@ -1,3 +1,3 @@
 # hello-world
 y first repository on GitHub.
-I love :music:, :travel:, :cooking:, :badminton:.
+I love :coffee:, :pizza:, :music:, :travel:, :cooking:, and :badminton:.
